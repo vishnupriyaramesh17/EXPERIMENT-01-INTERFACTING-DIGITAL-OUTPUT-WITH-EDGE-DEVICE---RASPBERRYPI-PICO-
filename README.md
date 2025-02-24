@@ -7,7 +7,7 @@
 ### AIM
 To interface a digital output device (LED) with the Raspberry Pi Pico and control it using MicroPython.
 
-APPARATUS REQUIRED
+## APPARATUS REQUIRED
 Raspberry Pi Pico
 LED (Light Emitting Diode)
 330Ω Resistor
